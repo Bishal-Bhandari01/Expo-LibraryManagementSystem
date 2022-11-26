@@ -16,6 +16,7 @@ export function MonoText(props) {
             android: "monospace",
           }),
           fontWeight: "500",
+          color: "blue"
         },
       ]}
     />
